@@ -1,0 +1,37 @@
+{
+  "name": "KlinikRadar (Mokokoooo)",
+  "identifier": "io.github.mokokoooo.klinikradar-app.source",
+  "subtitle": "Ärztinnen und Ärzte in Kliniken und MVZ",
+  "iconURL": "https://mokokoooo.github.io/klinikradar-app/icon.png",
+  "website": "https://mokokoooo.github.io/klinikradar-app",
+  "nsfw": false,
+  "apps": [
+    {
+      "name": "KlinikRadar",
+      "bundleIdentifier": "io.github.mokokoooo.KlinikRadar",
+      "developerName": "Mokokoooo",
+      "subtitle": "Klinikärzte in ganz Deutschland, offline",
+      "localizedDescription": "Ärztinnen und Ärzte in deutschen Kliniken und MVZ: Umkreissuche, Positionsebene, Fachrichtung und Qualifikationen, mit Quellen und Confidence-Ampel. Der Datensatz ist in der App enthalten.",
+      "iconURL": "https://mokokoooo.github.io/klinikradar-app/icon.png",
+      "tintColor": "#2B6CB0",
+      "category": "reference",
+      "screenshots": [
+        "https://mokokoooo.github.io/klinikradar-app/screenshot.png"
+      ],
+      "versions": [
+        {
+          "version": "1.0.0",
+          "buildVersion": "1",
+          "date": "2026-10-10T11:58:39+00:00",
+          "downloadURL": "https://github.com/Mokokoooo/klinikradar-app/releases/download/ios-v1.0.0/KlinikRadar.ipa",
+          "size": 64376055,
+          "minOSVersion": "17.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    }
+  ]
+}
