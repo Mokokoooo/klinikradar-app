@@ -20,11 +20,11 @@
       ],
       "versions": [
         {
-          "version": "1.0.2",
-          "buildVersion": "7",
-          "date": "2026-10-10T13:45:18+00:00",
-          "downloadURL": "https://github.com/Mokokoooo/klinikradar-app/releases/download/ios-v1.0.2/KlinikRadar.ipa",
-          "size": 104324599,
+          "version": "1.0.3",
+          "buildVersion": "12",
+          "date": "2026-10-10T22:17:17+00:00",
+          "downloadURL": "https://github.com/Mokokoooo/klinikradar-app/releases/download/ios-v1.0.3/KlinikRadar.ipa",
+          "size": 108654810,
           "minOSVersion": "17.0"
         }
       ],
